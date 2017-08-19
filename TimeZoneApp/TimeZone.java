@@ -14,6 +14,7 @@ import java.util.Scanner;
 
 import static java.time.Instant.ofEpochMilli;
 
+// This file is meant to live in *project name*/src/main/java
 
 /*
     In this application our CSV file contains a date, a UTC time and longitude and latitude. Our goal is to use the long / lat data to get the localized time
