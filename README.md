@@ -1,7 +1,7 @@
 # API-s
 Small programs interacting with API's that can be used in larger applications.
 
-## Pwned Password 
+## PwnedPassword 
 This is a small Java console application that checks the inputted password against Troy Hunt's haveibeenpwned.com API for pwned passwords to see if the password exists in a breach or not.
 
 ## PasswordChecker
