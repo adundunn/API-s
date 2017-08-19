@@ -1,3 +1,5 @@
+// This file is meant to live in *project name*/src/main/java
+
 public class JsonObject {
 
     long dstOffset, rawOffset;
